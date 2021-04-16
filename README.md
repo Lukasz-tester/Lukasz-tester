@@ -1,4 +1,4 @@
-- 👋 Hi, I'm @Lukasz-tester (actually Łukasz Tarnowski) and I live in Kraków / Poland
+- 👋 Hi, I'm @Lukasz-tester
 - 👀 I’m interested in software testing, automation, web development, technology and human progress
 - 🌱 I’m currently learning automated software testing with Python using Selenium driver
 - 💞️ I’m looking to collaborate on software testing methods
